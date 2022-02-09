@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @EfeAdzhar
-- 👀 I’m interested in programming 
-- 🌱 I’m currently learning iOS development
+- 👋 Hi, I’m @EfeAdzhar, you can call me Efe.
+- 👀 I’m interested in programming. I also study at University as a Software Engineer.
+- 🌱 I’m currently learning iOS development and Computer Science.
 - 📫 How to reach me https://www.linkedin.com/in/efe-adzhar/
 
 <!---
