@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EfeAdzhar, you can call me Efe.
 - 👀 I’m interested in programming. I also study at University as a Software Engineer.
-- 🌱 I've finished Java internship and now i'm currently learning iOS development and Computer Science.
+- 🌱 I've finished 2 Java internship and now i have an intership in Zoola.
 - 📫 How to reach me https://www.linkedin.com/in/efe-adzhar/
 
 <!---
