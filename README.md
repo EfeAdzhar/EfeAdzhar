@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @EfeAdzhar, you can call me Efe.
-- 👀 I’m interested in programming. I also study at University as a Software Engineer. I already have a Bachelor degree and right now I'm finishing my Major degree
-- 🌱 I've finished 2 Java Academies and a month age, I have finished an intership in Zoola.
+- 👀 I’m interested in programming, history, arts, and politics. 
+- 🧑🏻‍🎓 I study at University as a Software Engineer. I already have a Bachelor's degree and right now I'm finishing my Major degree
+- 🌱 I've finished 2 Java Academies in big outsourcing companies. I have finished an internship in Zoola and worked as a Java Backend Developer for 6 months.
 - 🧐 Looking for a job
 - 📫 How to reach me https://www.linkedin.com/in/efe-adzhar/
 
